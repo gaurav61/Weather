@@ -8,3 +8,5 @@ A simple Weather app which let you see weather conditions in different cities of
 
 ## Run
 Generate the APK file in Android studio and run it on the phone.
+
+![ScreenShot](img1.png)
