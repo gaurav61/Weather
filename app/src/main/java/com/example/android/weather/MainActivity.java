@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-       // new JSONTask().execute("http://api.openweathermap.org/data/2.5/forecast/daily?q=Newyork&cnt=5&&APPID=f64aa7bc635ab11639193ea07486a0e2");
+      
 
 
 
