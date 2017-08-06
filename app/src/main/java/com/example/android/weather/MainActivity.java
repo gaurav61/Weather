@@ -88,12 +88,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
-
-      
-
-
-
+            //adding comments
         RelativeLayout rl = (RelativeLayout)findViewById(R.id.day1);
         rl.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
